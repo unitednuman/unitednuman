@@ -23,6 +23,3 @@ src="https://5.imimg.com/data5/XA/IN/UI/GLADMIN-13634783/selection-206-500x500.p
 
 
 
-
-[![Numan Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=unitednuman&theme=radical)](https://github.com/unitednuman/github-readme-stats)
-
