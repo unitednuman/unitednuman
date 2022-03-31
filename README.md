@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numan Aslam</h1>
-<h3 align="center">Software Engineer with proven experience in Django, Flask, and executing complex web and python projects. Worked on diverse back-end toolsets while maintaining excellent problem-solving skills. A Backend developer on Python for more than 2 years.</h3>
+<h3 align="left">Software Engineer with proven experience in Django, Flask, and executing complex web and python projects. Worked on diverse back-end toolsets while maintaining excellent problem-solving skills. A Backend developer on Python for more than 2 years.</h3>
 
 - 📫 How to reach me **unitednuman@gmail.com**
 
